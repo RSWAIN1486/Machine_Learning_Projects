@@ -1,4 +1,4 @@
-# Data_Science_Projects
+# Machine_Learning_Projects
 Academic data science projects
 
 ### 1. [Analyzing the Performance of Football Teams](https://github.com/RSWAIN1486/Machine_Learning_Projects/blob/master/Academic/Analysing_the_performance_of_football_teams.ipynb)
